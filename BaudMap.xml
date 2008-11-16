@@ -1,0 +1,16 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/"   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
+  <Script file="BaudMap.lua"/>
+
+  <Frame name="BaudMapMinimap" setAllPoints="true" hidden="true" parent="Minimap">
+    <Scripts>
+      <OnLoad>
+        BaudMap_OnLoad(self);
+        --Eliminates an extra function call
+        self:SetScript("OnUpdate", BaudMapMinimap_OnUpdate);
+      </OnLoad>
+      <OnEvent>
+        BaudMap_OnEvent(self, event);
+      </OnEvent>
+    </Scripts>
+  </Frame>
+</Ui>

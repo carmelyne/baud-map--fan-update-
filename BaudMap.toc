@@ -1,0 +1,6 @@
+## Interface: 30000
+## Title: Baud Map
+## Notes: Modifies Blizzard's maps, adding names to the world map, friends to the minimap (only in party), and more.
+## Author: Baudzilla
+## Version: 1.1
+BaudMap.xml
