@@ -1,4 +1,3 @@
--- Fan update from version    Baud Map 1.1 10/20/2008     Release  WoW 3.0.2
 --Most of the map size information, aswell as the minimap sizes used by this addon were borrowed from Astrolabe
 local NextUpdate = 0;
 local MaxMarkers = 0;
@@ -87,11 +86,13 @@ local WorldMapSize = {
   AlteracValley = 4237.4,
   NetherstormArena = 2271.6, --Eye of the Storm
   ArathiBasin = 1306.3,
+  StrandoftheAncients = 1216.5,
   
-  Northrend = 17751.3936186856, --Northrend
+  Northrend = 17751.3936186856,
   BoreanTundra = 5764.58206497758,
   CrystalsongForest = 2722.916164555434,
   Dalaran = 830.014625253355,
+  
   Dragonblight = 5608.331259502691,
   GrizzlyHills = 5249.9986179934,
   HowlingFjord = 6045.831339550668,
@@ -100,6 +101,7 @@ local WorldMapSize = {
   SholazarBasin = 4356.248328680455,
   TheStormPeaks = 7112.498205872217,
   ZulDrak = 4993.747919923504,
+  
 };
 
 
