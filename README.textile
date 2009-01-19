@@ -1,0 +1,19 @@
+h1. Baud Map Fan Update
+
+Welcome to Baud Map Fan Update! This is a fan update of Baud Map originally by "Baudzilla":http://gw.cn.curse.com/members/Baudzila.aspx
+
+h2. Project Info
+
+Shows your friends on the minimap in green so you can see them easy, and adds player names to the world map. Also adds bases and graveyards to the minimap for Alterac Valley and Arathi Basin (Blizzard already does this for the other maps).
+
+Note: Baud Map will not work inside instances, since the world map doesn't work inside them.
+
+* *Web*: "Original Project Home":http://gw.cn.curse.com/downloads/wow-addons/details/baud-map.aspx
+
+h2. Fan Update
+
+Fan update for friends and guild mates who run battlegrounds.
+
+h2. Extra Information
+
+* For credits and origins, see "Baudzilla":http://gw.cn.curse.com/members/Baudzila.aspx.
