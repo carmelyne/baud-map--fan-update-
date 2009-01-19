@@ -1,3 +1,4 @@
+--Fan update from version    Baud Map 1.1 10/20/2008     Release  WoW 3.0.2
 --Most of the map size information, aswell as the minimap sizes used by this addon were borrowed from Astrolabe
 local NextUpdate = 0;
 local MaxMarkers = 0;
